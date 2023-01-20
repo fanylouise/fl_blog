@@ -99,7 +99,7 @@ SiteVerificationTag = "XYZabc"
   hiddenInSingle = true
 
   [params.editPost]
-  URL = "https://github.com/fanylouise/fl_blog"
+  URL = "https://github.com/fanylouise/fl_blog/content/posts"
   Text = "Suggest Changes"
   appendFilePath = true
 
@@ -113,14 +113,14 @@ SiteVerificationTag = "XYZabc"
   keys = [ "title", "permalink", "summary", "content" ]
 
 [[menu.main]]
-identifier = "categories"
-name = "categories"
-url = "/categories/"
+identifier = "Categorias"
+name = "Categorias"
+url = "/categorias/"
 weight = 10
 
 [[menu.main]]
-identifier = "tags"
-name = "tags"
+identifier = "Tags"
+name = "Tags"
 url = "/tags/"
 weight = 20
 
