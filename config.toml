@@ -18,7 +18,7 @@ env = "production"
 title = "Fany Louise"
 description = "Aprendendo sempre"
 keywords = [ "Blog", "Portfolio", "PaperMod" ]
-author = "Me"
+author = "Fany Louise"
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
 DateFormat = "January 2, 2006"
 defaultTheme = "auto"
@@ -69,7 +69,7 @@ tocopen = false
     url = "tags"
 
   [params.homeInfoParams]
-  Title = "Olá, Welcome!"
+  Title = "Olá, Bem-vindo(a/e)!"
   Content = "Quero apenas fixar o que aprendo :)"
 
   [[params.socialIcons]]
@@ -99,7 +99,7 @@ SiteVerificationTag = "XYZabc"
   hiddenInSingle = true
 
   [params.editPost]
-  URL = "https://github.com/<path_to_repo>/content"
+  URL = "https://github.com/fanylouise/fl_blog"
   Text = "Suggest Changes"
   appendFilePath = true
 
