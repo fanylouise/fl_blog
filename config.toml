@@ -113,17 +113,10 @@ SiteVerificationTag = "XYZabc"
   keys = [ "title", "permalink", "summary", "content" ]
 
 [[menu.main]]
-identifier = "Categorias"
-name = "Categorias"
-url = "/categorias/"
-weight = 10
-
-[[menu.main]]
 identifier = "Tags"
 name = "Tags"
 url = "/tags/"
 weight = 20
-
 
 [markup.highlight]
 noClasses = false
